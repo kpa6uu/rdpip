@@ -5,5 +5,5 @@
 		echo "1";
 	}
 	else
-		echo "0\n";
+		echo "0";
 ?>
